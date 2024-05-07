@@ -16,6 +16,7 @@ export default defineConfig({
         text: '系统设计',
         items: [
           { text: '4种方法MySQL同步ES', link: '/system-design/mysql-sync-es' },
+          { text: 'Redis大key问题', link: '/system-design/redis-big-key' },
         ]
       }
     ],
